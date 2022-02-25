@@ -1,5 +1,5 @@
 # NotesHub
-html notes:
+
 ## JavaScript
 
 ## Java
